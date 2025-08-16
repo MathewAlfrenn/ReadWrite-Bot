@@ -62,7 +62,7 @@ Here is how to use the tool with a demo video.
 There is also a written version down below the video.
 
 ## Demo Video
-<video src="RegionFinder_Demo.mov" controls></video>
+[<video src="RegionFinder_Demo.mov" controls></video>](https://github.com/user-attachments/assets/61cb3fc3-c64f-4ae1-9dc6-d9bf10f01d09)
 
 
 
