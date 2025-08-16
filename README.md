@@ -58,6 +58,11 @@ Notes :
 Choose the run duration when prompted
 Click the target input field, then press Enter in the terminal to start
 
+Here is how to use the tool with a demo video.  
+There is also a written version down below the video.
+
+## Demo Video
+<video src="RegionFinder_Demo.mov" controls></video>
 
 
 
