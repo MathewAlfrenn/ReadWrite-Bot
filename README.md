@@ -62,7 +62,13 @@ Here is how to use the tool with a demo video.
 There is also a written version down below the video.
 
 ## Demo Video
+Region Finder Demo
+
 [<video src="RegionFinder_Demo.mov" controls></video>](https://github.com/user-attachments/assets/61cb3fc3-c64f-4ae1-9dc6-d9bf10f01d09)
+
+Monkey Type Demo (NOTE DO NOT DO THAT AGAINST TOS THIS IS EDUCATIONAL PURPOSE ONLY)
+[<video src="RegionFinder_Demo.mov" controls></video>]([https://github.com/user-attachments/assets/61cb3fc3-c64f-4ae1-9dc6-d9bf10f01d09](https://github.com/user-attachments/assets/bae0adea-09de-4ac6-abdd-ed3a65177076))
+https://github.com/user-attachments/assets/bae0adea-09de-4ac6-abdd-ed3a65177076
 
 
 
