@@ -19,6 +19,21 @@ It works great for sites like Monkeytype for re-transcribing visible text, and i
 
 ## Quick Start
 
+TL:DR
+git clone then go to the path then 
+
+mac:
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+Windows:
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
+
+
 1. **Clone the repo**
    ```bash
    git clone https://github.com/<your-username>/readwrite-bot.git
@@ -42,6 +57,8 @@ python readwritebot.py
 Notes :
 Choose the run duration when prompted
 Click the target input field, then press Enter in the terminal to start
+
+
 
 
 ## Choosing and Setting the Screen Region
