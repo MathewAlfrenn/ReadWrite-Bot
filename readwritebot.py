@@ -4,8 +4,8 @@ from PIL import Image
 import time
 
 # Global region variables
-first_region  = (75, 460, 1360, 153) # all the text line
-looping_region = (75, 500, 1360, 108) # the region that should change, IE for monkey type it would be the last 2 lines (put the same as the first one or ignore it if no loop or contiunation)
+first_region  = (75, 460, 1360, 153) # The main loop
+looping_region = (75, 500, 1360, 108) # Don't care if no looping 
 
 def get_typing_text(region):
 
@@ -15,7 +15,7 @@ def get_typing_text(region):
     return text.strip().replace('\n', ' ')
 
 def type_text(text):
-    pyautogui.write(text, interval=0.007)  #change interval to adjust typing speed
+    pyautogui.write(text, interval=0.007) # Change interval to adjust typing speed
     return True
 
 def get_duration_choice():
