@@ -19,19 +19,41 @@ It works great for sites like Monkeytype for re-transcribing visible text, and i
 
 ## Quick Start
 
-TL:DR
-git clone then go to the path then 
+**TL:DR**
 
-mac:
+1.git clone 
+
+2.go to the path 
+
+
+3.(mac)
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
+or
 
-Windows:
+
+3.(Windows)
+```bash
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+```
 
+4. Get the Region
+```bash
+  python regionfinder.py
+```
+5.Update readwritebot.py with region and speed 
+<img width="840" height="566" alt="Screenshot 2025-08-17 at 1 29 40 AM" src="https://github.com/user-attachments/assets/111b2ffe-3240-4ca7-8eb2-3597d69f8ef1" />
+6. Run the Script
+
+ ```bash
+   python readwritebot.py
+```
+--
 
 
 1. **Clone the repo**
@@ -65,12 +87,14 @@ There is also a written version down below the video.
 
 ### Region Finder Demo (With Loop)
 Use this when the text continuously changes (for example, MonkeyType).  
+
 ⚠️ **Important:** It is against the Terms of Service of MonkeyType to use bots or automation. This demo is for **educational purposes only**.  
 
 [<video src="RegionFinder_Demo.mov" controls></video>](https://github.com/user-attachments/assets/61cb3fc3-c64f-4ae1-9dc6-d9bf10f01d09)
 
 ### Monkey Type Demo (Educational Purposes Only)
 Example of looping input.  
+
 ⚠️ **Again, do not use this to automate MonkeyType in practice.**  
 
 [<video src="MonkeyType_Demo.mov" controls></video>](https://github.com/user-attachments/assets/bae0adea-09de-4ac6-abdd-ed3a65177076)
