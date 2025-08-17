@@ -67,7 +67,7 @@ Region Finder Demo
 [<video src="RegionFinder_Demo.mov" controls></video>](https://github.com/user-attachments/assets/61cb3fc3-c64f-4ae1-9dc6-d9bf10f01d09)
 
 Monkey Type Demo (NOTE DO NOT DO THAT AGAINST TOS THIS IS EDUCATIONAL PURPOSE ONLY)
-[<video src="RegionFinder_Demo.mov" controls></video>]([https://github.com/user-attachments/assets/61cb3fc3-c64f-4ae1-9dc6-d9bf10f01d09](https://github.com/user-attachments/assets/bae0adea-09de-4ac6-abdd-ed3a65177076))
+[<video src="RegionFinder_Demo.mov" controls></video>](https://github.com/user-attachments/assets/ad04503e-5b78-4029-9ae5-9fe64d09a4ed)
 https://github.com/user-attachments/assets/bae0adea-09de-4ac6-abdd-ed3a65177076
 
 
