@@ -62,7 +62,7 @@ def main():
             print("⚠️ No text detected. Stopping early.")
             break
 
-        # Guard before typing
+        # Check before typing
         if time.time() - start_time >= duration:
             print("⛔ Time exceeded before typing started. Aborting.")
             break
@@ -70,7 +70,7 @@ def main():
         # Print detected text
         type_text(text)
 
-        # Guard after typing
+        # Check after typing
         if time.time() - start_time >= duration:
             print("⛔ Time exceeded after typing. Ending.")
             break
@@ -78,7 +78,7 @@ def main():
         # Press one extra space to advance so next capture shows two new lines
         pyautogui.press('space')
 
-        # Final guard in case space pushed us over time
+        # Final check in case space pushed us over time
         if time.time() - start_time >= duration:
             print("⏱ Timer expired after advancing. Ending.")
             break

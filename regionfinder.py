@@ -1,5 +1,5 @@
 import pyautogui
-import time  # ✅ this was missing
+import time 
 
 print("Move your mouse to top-left of the words area... waiting 3s")
 time.sleep(3)
